@@ -3,5 +3,7 @@ public class JavaFromLaptopGithubTest {
 
 
         System.out.println("Hello world!");
+        
+        System.out.println("Hello world! v2");
     }
 }

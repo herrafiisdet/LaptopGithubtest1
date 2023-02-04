@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IfStatementPractice5 {
+public class IfStatementPractice05 {
 
     public static void main(String[] args) {
         /*

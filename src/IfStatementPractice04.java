@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IfStatementPractice4 {
+public class IfStatementPractice04 {
 
     public static void main(String[] args) {
         /* Create a Java program and name it Double Comparison. Declare 2 double values and if value of

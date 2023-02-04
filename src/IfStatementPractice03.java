@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IfStatementPractice3 {
+public class IfStatementPractice03 {
 
     public static void main(String[] args) {
         /*if student completed more than 25 => great job

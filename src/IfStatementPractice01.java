@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IfStatementPractice1 {
+public class IfStatementPractice01 {
 
     public static void main(String[] args) {
         //Take three numbers from the user and print the greatest number

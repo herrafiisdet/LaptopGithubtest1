@@ -1,7 +1,6 @@
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Scanner;
 
-public class IfStatementPractice2 {
+public class IfStatementPractice02 {
 
     public static void main(String[] args) {
         //5. Write a Java program that keeps a number from the user and generates an integer
